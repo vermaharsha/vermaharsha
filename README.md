@@ -26,10 +26,6 @@
 <br>
 <br>
 
-## 💻 Tech Stack:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,java,cpp,c,git,github&perline=13"/>
-  </p>
   
 
