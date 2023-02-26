@@ -30,7 +30,7 @@
 ## 💻 Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,aws,wordpress,bootstrap,mysql,cpp,figma,c,git,github&perline=13"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,cpp,c,java,git,github&perline=13"/>
   </p>
   
 
