@@ -30,17 +30,17 @@
 ## 💻 Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,cpp,c,java,git,github&perline=13"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,cpp,c,java,github&perline=13"/>
   </p>
   
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nishant850&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nishant850&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vermaharsha&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshaverma&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant850&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Nishant850&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
