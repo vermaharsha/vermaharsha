@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant850&label=Profile%20views&color=0e75b6&style=flat" alt="Nishant850" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=0e75b6&style=flat" alt="vermaharsha" /> </p>
 
 
 
