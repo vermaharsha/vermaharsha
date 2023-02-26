@@ -1,7 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Nishant Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Harsha Verma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant850&label=Profile%20views&color=0e75b6&style=flat" alt="Nishant850" /> </p>
@@ -11,27 +10,20 @@
 <h1 align="center">💫 About Me:</h1>
 
 - 🔭I'm currently working on full stack web development<br>
-- 🌱I'm currently  learning ML & AI<br>
 - 💬Ask me about MERN<br>
-- 📫 How to reach me choudharynishant850@gmail.com<br>
-- ⚡ Fun fact Chai tastes way better than Coffee | Change my mind!
-
+- 📫 How to reach me vermaharsha939@gmail.com<br>
 
 
 ## 🌐 Socials:
 
-<a href="https://www.facebook.com/https.nishant18">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Facebook">
-</a>
-<a href="https://www.instagram.com/kyayaar_nishant/">
+
+<a href="https://instagram.com/harshaverma___?igshid=NTdlMDg3MTY=">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram">
 </a>
-<a href="https://www.linkedin.com/in/nishant-chaudhary-61b4191b4/">
+<a href="https://www.linkedin.com/in/harsha-">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Linkedin">
 </a>
-<a href="https://stackoverflow.com/users/15872406/nishant850">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" alt="Stackoverflow">
-</a>
+
 <br>
 <br>
 
