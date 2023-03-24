@@ -9,10 +9,11 @@
 
 <h1 align="center">💫 About Me:</h1>
 
-- 🔭I'm currently working on full stack web development<br>
-- 💬Ask me about MERN<br>
-- 📫 How to reach me vermaharsha939@gmail.com<br>
-
+- I'm currently working on full stack web development<br>
+- Ask me about MERN<br>
+- How to reach me vermaharsha939@gmail.com<br>
+- My Instagram https://instagram.com/harshaverma___?igshid=NTdlMDg3MTY=
+- LinkedIn https://www.linkedin.com/in/harsha-
 
 ## 🌐 Socials:
 
