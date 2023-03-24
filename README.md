@@ -15,18 +15,6 @@
 - My Instagram https://instagram.com/harshaverma___?igshid=NTdlMDg3MTY=
 - LinkedIn https://www.linkedin.com/in/harsha-
 
-## 🌐 Socials:
-
-
-<a href="https://instagram.com/harshaverma___?igshid=NTdlMDg3MTY=">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram">
-</a>
-<a href="https://www.linkedin.com/in/harsha-">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Linkedin">
-</a>
-
-<br>
-<br>
 
 ## 💻 Tech Stack:
 
