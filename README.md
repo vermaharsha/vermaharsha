@@ -1,4 +1,5 @@
-![Coder](https://user-images.githubusercontent.com/111423734/234866201-2c581071-ef4f-46ad-813f-15e300352182.jpg)
+![Coder](https://user-images.githubusercontent.com/111423734/234867058-6ede57a6-f413-4da5-afa9-5e99cc6ba319.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Harsha Verma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
