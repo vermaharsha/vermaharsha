@@ -1,4 +1,5 @@
-![Coder](https://user-images.githubusercontent.com/111423734/234867058-6ede57a6-f413-4da5-afa9-5e99cc6ba319.jpg)
+![Coder](https://user-images.githubusercontent.com/111423734/234867601-1183a2f1-2149-4aa1-a95e-7f9f0dbc439f.jpg)
+
 
 
 <h1 align="center">Hi 👋, I'm Harsha Verma</h1>
