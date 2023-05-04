@@ -1,6 +1,6 @@
 <h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />I'm Harsha Verma </h2>
 
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3>A passionate frontend developer from India.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=0e75b6&style=flat" alt="vermaharsha" /> </p>
