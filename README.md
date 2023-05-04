@@ -12,7 +12,7 @@ p align="left">
 </p>
 </p>
 p align="left">
-<a href="https://www.linkedin.com/in/harsha-" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Harsha Verma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsha-" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.svg" alt="Harsha Verma" height="30" width="40" /></a>
 </p>
 vermaharsha939@gmail.com<br>
 My Instagram https://instagram.com/harshaverma___?igshid=NTdlMDg3MTY=
