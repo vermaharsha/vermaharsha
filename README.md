@@ -23,9 +23,7 @@
   
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vermaharsha&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshaverma&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermaharsha&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaharsha&theme=algolia&hide_border=true&langs_count=5" /><img src="https://github-readme-stats.vercel.app/api?username=vermaharsha&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" /></p>
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
