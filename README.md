@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=0e75b6&style=flat" alt="vermaharsha" /> </p>
 
 
-<h1 align="center">💫 About Me:</h1>
+<h1 align="left">💫 About Me:</h1>
 
 - I'm currently working on full stack web development<br>
 - Ask me about MERN<br>
