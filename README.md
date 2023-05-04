@@ -34,5 +34,6 @@ LinkedIn https://www.linkedin.com/in/harsha-
 ### ✍️ Random Dev Quote:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark) -->
+![Random Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
 
