@@ -1,33 +1,28 @@
 <h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />I'm Harsha Verma </h2>
 
-<h3>A passionate frontend developer from India.</h3>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=0e75b6&style=flat" alt="vermaharsha" /> </p>
 
-
-<h1 align="left">💫 About Me:</h1>
-
-- I'm currently working on full stack web development<br>
-- Ask me about MERN<br>
-- How to reach me vermaharsha939@gmail.com<br>
-- My Instagram https://instagram.com/harshaverma___?igshid=NTdlMDg3MTY=
-- LinkedIn https://www.linkedin.com/in/harsha-
+### Connect with me:
 
 
-## 💻 Tech Stack:
+vermaharsha939@gmail.com<br>
+My Instagram https://instagram.com/harshaverma___?igshid=NTdlMDg3MTY=
+LinkedIn https://www.linkedin.com/in/harsha-
+
+
+### Tech Stack:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,cpp,c,java,github&perline=13"/>
   </p>
   
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaharsha&theme=algolia&hide_border=true&langs_count=5" /><img src="https://github-readme-stats.vercel.app/api?username=vermaharsha&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" /></p>
 
-## 🏆 GitHub Trophies:
+### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ Random Dev Quote:
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
