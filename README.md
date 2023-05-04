@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsha Verma</h1>
+<h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" /><h1 I'm Harsha Verma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 
