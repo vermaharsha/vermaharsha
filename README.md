@@ -7,7 +7,8 @@
 <p align="left">
 <a href="https://instagram.com/harshaverma___?igshid=NTdlMDg3MTY=" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshaverma___" height="30" width="40" /></a>
   
-<a href="mailto:vermaharsha939@gmail.com"><img src="gmail.png" width="30" height="30"></a>
+<a href="mailto:vermaharsha939@gmail.com"><img src="![gmail](https://user-images.githubusercontent.com/111423734/236133106-0a8c1d04-cc69-4891-a18f-265ef15a6951.png)
+" width="30" height="30"></a>
 <a href="https://www.linkedin.com/in/harsha-"><img src="linkedin.png" width="30" height="30"></a>
 
 <!-- 
