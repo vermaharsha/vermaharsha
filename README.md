@@ -31,6 +31,9 @@ LinkedIn https://www.linkedin.com/in/harsha-
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<a href="http://www.github.com/vermaharsha"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vermaharsha&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<hr>
+
 ### ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
