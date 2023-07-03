@@ -25,8 +25,8 @@ vermaharsha939@gmail.com<br>
 ### 📊 GitHub Stats:
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaharsha&theme=algolia&hide_border=true&langs_count=5" /><img src="https://github-readme-stats.vercel.app/api?username=vermaharsha&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" /></p>
 
-### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 <!-- <a href="http://www.github.com/vermaharsha"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vermaharsha&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 <hr>
