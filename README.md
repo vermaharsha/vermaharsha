@@ -21,9 +21,12 @@ vermaharsha939@gmail.com<br>
   <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,cpp,c,java,github&perline=13"/>
   </p>
   
-
-### 📊 GitHub Stats:
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaharsha&theme=algolia&hide_border=true&langs_count=5" /><img src="https://github-readme-stats.vercel.app/api?username=vermaharsha&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" /></p>
+### :zap: Github Stats
+<p>
+    <a href="https://gitstats.me/vermaharsha" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=vermaharsha&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    </a>
+</p>
 
 <!-- ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
