@@ -54,10 +54,3 @@
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=vermaharsha&show_icons=true&theme=react&border_color=61dafb&hide_border=true" target="blank"/>
   </div>
 </p>
-
-### ✍️ Random Dev Quote:
-<div style="display: flex; align: center;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Code Snippet">
-</div>
-
-
