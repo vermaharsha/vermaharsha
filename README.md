@@ -1,38 +1,56 @@
-<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />I'm Harsha Verma </h1>
+<h1 align="center">Hi all, I'm Harsha</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=0e75b6&style=flat" alt="vermaharsha" /> </p>
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=0e75b6&style=flat" target="blank" alt="vermaharsha"/>
+</div>
 
-### Connect with me:
+<h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" target="blank" height="27px" width="25px"></h2>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/harsha-" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha verma" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/vermaharsha" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vermaharsha" height="30" width="40" /></a> -->
-<!-- <a href="https://leetcode.com/vermaharsha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vermaharsha" height="30" width="40" /></a> -->
-<a href="https://instagram.com/harshaverma___?igshid=NTdlMDg3MTY=" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshaverma___" height="30" width="40" /></a>
-<!-- <a href="https://auth.geeksforgeeks.org/user/vermaharr6d4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vermaharr6d4" height="30" width="40" /></a> -->
+- 💻 I am currently learning Web Development.
+<!-- portfoilio link -->
+<!--- 👨‍💻 All of my projects are available at [vermaharsha.github.io](https://vermaharsha.github.io/)--> 
+<!-- - 💬 Ask me about **Python, Django, Reactjs, Blockchain** -->
+- 📄 Know about my experiences [https://www.linkedin.com/in/harsha-](https://www.linkedin.com/in/harsha-)
 
-<!-- 
-vermaharsha939@gmail.com<br>
--->
+<h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" target="blank" height="30px" width="30px"></h2>
 
-### Tech Stack:
+<div align="center">
+      <a href="https://www.linkedin.com/in/harsha-/" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
+      </a>
+      <!-- <a href="[https://www.instagram.com/1hanzla100/]" target="blank"> -->
+        <!-- <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" target="blank"> -->
+      <!-- </a> -->
+      <a href="https://github.com/vermaharsha">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="blank">
+      </a>
+      <a href="mailto:vermaharsha939@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank">
+      </a>
+      <a href="https://www.instagram.com/1hanzla100/" target="blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank">
+      </a>
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,cpp,c,java,github&perline=13"/>
-  </p>
-  
-### :zap: Github Stats
-<p>
-    <a href="https://gitstats.me/vermaharsha" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=vermaharsha&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
+<h2 align="center">Tools and Technologies 🛠</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="blank"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="blank"/>
+<br>
+</div>
+
+<!-- Github Stats Section -->
+<h2 align="center">Github Stats ⚡</h2>
+<p align=center>
+  <div align=center>
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaharsha&theme=react&border=61dafb&hide_border=true" target="blank" alt="1hanzla100" />
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=vermaharsha&show_icons=true&theme=react&border_color=61dafb&hide_border=true" target="blank"/>
+  </div>
 </p>
-
-<!-- ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-
-<!-- <a href="http://www.github.com/vermaharsha"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vermaharsha&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-<hr>
 
 ### ✍️ Random Dev Quote:
 
