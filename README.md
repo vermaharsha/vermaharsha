@@ -53,6 +53,9 @@
 </p>
 
 ### ✍️ Random Dev Quote:
+<div style="display: flex; justify-content: center;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Code Snippet">
+</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
