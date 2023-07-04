@@ -41,9 +41,9 @@
   <img src="https://img.shields.io/badge/Mysql-007ACC?style=for-the-badge&logo=mysql&logoColor=white" target="blank"/>
   <img src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c++&logoColor=white" target="blank"/>
   <img src="https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white" target="blank"/>
-  <img src="" target="blank"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="blank"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c++&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/Java_AWS-FF9900?style=for-the-badge&logo=java&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white" target="blank"/>
 <br>
 </div>
 
