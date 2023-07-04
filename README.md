@@ -47,7 +47,7 @@
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaharsha&theme=react&border=61dafb&hide_border=true" target="blank" alt="1hanzla100" />
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaharsha&theme=react&border=61dafb&hide_border=true" target="blank" alt="vermaharsha" />
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=vermaharsha&show_icons=true&theme=react&border_color=61dafb&hide_border=true" target="blank"/>
   </div>
 </p>
