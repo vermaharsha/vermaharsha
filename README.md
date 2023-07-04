@@ -34,10 +34,14 @@
 
 <h2 align="center">Tools and Technologies 🛠</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/Html-092E20?style=for-the-badge&logo=html&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css&logoColor=61DAFB" target="blank"/>
+  <img src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" target="blank"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="blank"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="blank"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/Mysql-007ACC?style=for-the-badge&logo=mysql&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c++&logoColor=white" target="blank"/>
+  <img src="https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white" target="blank"/>
+  <img src="" target="blank"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="blank"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="blank"/>
 <br>
