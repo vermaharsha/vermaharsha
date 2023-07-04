@@ -43,7 +43,8 @@
   <img src="https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white" target="blank"/>
   <img src="https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=java&logoColor=white" target="blank"/>
   <img src="https://img.shields.io/badge/GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white" target="blank"/>
-<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaharsha&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+  <br>
 </div>
 
 <!-- Github Stats Section -->
