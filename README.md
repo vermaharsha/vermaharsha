@@ -1,4 +1,5 @@
 <h1 align="center">Hi all, I'm Harsha</h1>
+<div class="tenor-gif-embed" data-postid="2554775961674464073" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/monitors-typing-screen-laptops-new-computer-gif-2554775961674464073">Monitors Typing Sticker</a>from <a href="https://tenor.com/search/monitors-stickers">Monitors Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=0e75b6&style=flat" target="blank" alt="vermaharsha"/>
