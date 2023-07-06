@@ -9,7 +9,7 @@
   -->
 
 <div align='right'>
-      <img src='https://github.com/vermaharsha/vermaharsha/assets/111423734/0469f797-5548-4f82-86f0-831a35d7cb77' height=45%>
+      <img src='https://github.com/vermaharsha/vermaharsha/assets/111423734/0469f797-5548-4f82-86f0-831a35d7cb77' height="40px">
 </div>
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" target="blank" height="27px" width="25px"></h2>
