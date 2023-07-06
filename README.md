@@ -16,10 +16,11 @@
 <!-- - 💬 Ask me about **Python, Django, Reactjs, Blockchain** -->
 - 📄 Know about my experiences [https://www.linkedin.com/in/harsha-](https://www.linkedin.com/in/harsha-)
 
-
+<!-- 
 <div align="centre">
       <img src='https://github.com/vermaharsha/vermaharsha/assets/111423734/0469f797-5548-4f82-86f0-831a35d7cb77' height="200px">
 </div>
+ -->
 
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" target="blank" height="30px" width="30px"></h2>
