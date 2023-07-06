@@ -65,3 +65,6 @@
 
 <div align='center'>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
+
+<div align='right'>
+<img src='https://github.com/vermaharsha/vermaharsha/assets/111423734/0469f797-5548-4f82-86f0-831a35d7cb77' width=45%></div>
