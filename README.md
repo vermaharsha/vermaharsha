@@ -8,8 +8,9 @@
 <div class="tenor-gif-embed" data-postid="2554775961674464073" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/monitors-typing-screen-laptops-new-computer-gif-2554775961674464073">Monitors Typing Sticker</a>from <a href="https://tenor.com/search/monitors-stickers">Monitors Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   -->
 
-![monitors-typing](https://github.com/vermaharsha/vermaharsha/assets/111423734/0469f797-5548-4f82-86f0-831a35d7cb77)
-
+<div align='right'>
+      <img src='https://github.com/vermaharsha/vermaharsha/assets/111423734/0469f797-5548-4f82-86f0-831a35d7cb77' height=45%>
+</div>
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" target="blank" height="27px" width="25px"></h2>
 
@@ -66,5 +67,3 @@
 <div align='center'>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
 
-<div align='right'>
-<img src='https://github.com/vermaharsha/vermaharsha/assets/111423734/0469f797-5548-4f82-86f0-831a35d7cb77' width=45%></div>
