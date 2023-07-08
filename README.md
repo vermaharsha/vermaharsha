@@ -4,9 +4,6 @@
       <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=0e75b6&style=flat" target="blank" alt="vermaharsha"/>
 </div>
 
-<!--
-<div class="tenor-gif-embed" data-postid="2554775961674464073" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/monitors-typing-screen-laptops-new-computer-gif-2554775961674464073">Monitors Typing Sticker</a>from <a href="https://tenor.com/search/monitors-stickers">Monitors Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  -->
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" target="blank" height="27px" width="25px"></h2>
 
@@ -16,12 +13,6 @@
 <!-- - 💬 Ask me about **Python, Django, Reactjs, Blockchain** -->
 - 📄 Know about my experiences [https://www.linkedin.com/in/harsha-](https://www.linkedin.com/in/harsha-)
 
-<!-- 
-<div align="centre">
-      <img src='https://github.com/vermaharsha/vermaharsha/assets/111423734/0469f797-5548-4f82-86f0-831a35d7cb77' height="200px">
-</div>
- -->
-
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" target="blank" height="30px" width="30px"></h2>
 
@@ -29,9 +20,6 @@
       <a href="https://www.linkedin.com/in/harsha-/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
       </a>
-      <!-- <a href="[https://www.instagram.com/1hanzla100/]" target="blank"> -->
-        <!-- <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" target="blank"> -->
-      <!-- </a> -->
       <a href="https://github.com/vermaharsha">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="blank">
       </a>
