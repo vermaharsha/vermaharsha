@@ -1,4 +1,4 @@
-<h1 align="center">Hi all 👋, I'm Harsha</h1>
+<h1 align="center">Hi all, I'm Harsha</h1>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=0e75b6&style=flat" target="blank" alt="vermaharsha"/>
