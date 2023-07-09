@@ -10,7 +10,7 @@
 - 💻 I am currently learning Web Development.
 <!-- portfoilio link -->
 <!--- 👨‍💻 All of my projects are available at [vermaharsha.github.io](https://vermaharsha.github.io/)--> 
-<!-- - 💬 Ask me about **Python, Django, Reactjs, Blockchain** -->
+<!-- - 💬 Ask me about **specify any language**
 - 📄 Know about my experiences [https://www.linkedin.com/in/harsha-](https://www.linkedin.com/in/harsha-)
 
 
