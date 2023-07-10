@@ -43,10 +43,6 @@
   <img src="https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=java&logoColor=white" target="blank"/>
   <img src="https://img.shields.io/badge/GitHub-3C3C3D?style=for-the-badge&logo=GitHub&logoColor=white" target="blank"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaharsha&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-
-      
-
- <img src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" target="blank" align="left" width="22%"  /> 
       
       
   <br>
