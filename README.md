@@ -19,7 +19,7 @@
 <div align="center">
       <a href="https://www.linkedin.com/in/harsha-/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
-      </a>
+      </a>  
       <a href="https://github.com/vermaharsha">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="blank">
       </a>
