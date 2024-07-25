@@ -12,13 +12,13 @@
 <!-- portfoilio link -->
 <!--- 👨‍💻 All of my projects are available at [vermaharsha.github.io](https://vermaharsha.github.io/)--> 
 <!-- - 💬 Ask me about **specify any language**-->
-- 📄 Know about my experiences [https://www.linkedin.com/in/harsha-](https://www.linkedin.com/in/harsha-)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vermaharsha](https://www.linkedin.com/in/vermaharsha)
 
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" target="blank" height="30px" width="30px"></h2>
 
 <div align="center">
-      <a href="https://www.linkedin.com/in/harsha-/" target="blank">
+      <a href="https://www.linkedin.com/in/vermaharsha/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
       </a>  
       <a href="https://github.com/vermaharsha">
