@@ -11,7 +11,7 @@
 const vermaharsha = {
   fullName: "Harsha Verma",
   pronouns: "She/Her",
-  myInsta : "vermaharsha__"
+  myInsta : "vermaharsha__",
   askMeAbout: ["Web Development" . "UI/UX Designing" . "DSA"],
   reachMeOut: ["vermaharsha939@gmail.com"],
   myLinkedIn: "vermaharsha"
