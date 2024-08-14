@@ -24,14 +24,23 @@
 <h3 align="left">About Me:</h3>
 
 ```javascript
-const vermaharsha = {
-  fullName: "Harsha Verma",
+
+let vermaharsha = {
+  name: "Harsha Verma",
+  contact: ["vermaharsha939@gmail.com", "LinkedIn: vermaharsha"],
+  social: "Instagram: vermaharsha__",
   pronouns: "She/Her",
-  myInsta : "vermaharsha__",
-  askMeAbout: ["Web Development" . "UI/UX Designing" . "DSA"],
-  reachMeOut: ["vermaharsha939@gmail.com"],
-  myLinkedIn: "vermaharsha"
+  expertise: ["Web Development", "UI/UX Designing", "DSA"],
+  
+  introduceYourself() {
+    return `Hello! I'm ${this.name} (${this.pronouns}).🌱 
+    Connect with me on ${this.social} or through ${this.contact.join(" | ")}.
+    I'm passionate about ${this.expertise.join(", ")}. Feel free to reach out!`;
+  }
 };
+
+console.log(harshaProfile.introduceYourself());
+
 ```
 
 <hr>
