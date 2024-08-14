@@ -39,7 +39,7 @@ let vermaharsha = {
   }
 };
 
-console.log(harshaProfile.introduceYourself());
+console.log(vermaharsha.introduceYourself());
 
 ```
 
