@@ -20,6 +20,7 @@
 
 <hr>
 
+/*
 
 <h3 align="left">About Me:</h3>
 
@@ -44,6 +45,8 @@ console.log(vermaharsha.introduceYourself());
 ```
 
 <hr>
+
+*/
       
 </div>
 
