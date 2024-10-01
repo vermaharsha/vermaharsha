@@ -3,7 +3,7 @@
 
 <img align="right" src="https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc3OTUxNzYsIm5iZiI6MTcyNzc5NDg3NiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAxVDE1MDExNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1NTVmYjExYjhiMmY2MzQyMGI5Nzg5NDhmOWQ4NzIwNWMyZDQ0NGZkMmZjNjI5NDBjNDc0YTk5ZWY5MGQyMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vrJhBDnIzVublXmpqpQLWrWMRrtQnX47aq2lr4-6lho" height="200">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+👋,+I'm+Harsha+Verma" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F7F7&width=435&lines=Hello+👋,+I'm+Harsha+Verma" alt="Typing SVG" /></a>
 
 <h3 align="left">A passionate web developer</h3>
 <div align="left">
