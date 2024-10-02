@@ -9,7 +9,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F7F7&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+Harsha+Verma" alt="Typing SVG" /></a>
 
-<p> As a web developer, I thrive on overcoming intricate challenges. My passions include immersing myself in books, nurturing plants 🌱, discovering hidden gems around the world, and leveraging technology to create practical solutions. Currently deepening my expertise in the MERN stack while actively participating in hackathons. Excited about the opportunity to collaborate on transformative projects! 💡 </p>
+<p> As a web developer, I thrive on overcoming intricate challenges. I’m passionate about reading, nurturing plants 🌱, discovering hidden gems, and leveraging technology for practical solutions. Currently enhancing my MERN skills and actively participating in hackathons. Excited to collaborate on transformative projects! 💡 </p>
 
 <br>
 
