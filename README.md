@@ -70,7 +70,7 @@ When I’m not coding, I enjoy getting lost in a good book or exploring new plac
 💌 Let’s connect!  
 - **Email:** [vermaharsha939@gmail.com](mailto:vermaharsha939@gmail.com)  
 - **LinkedIn:** [vermaharsha](https://www.linkedin.com/in/vermaharsha)  
-- **Instagram:** [harshaverma__](https://www.instagram.com/harshaverma__)
+- **Instagram:** [harshaverma___](https://www.instagram.com/harshaverma___)
 
 I look forward to collaborating on exciting projects!
 <br> <br> 
