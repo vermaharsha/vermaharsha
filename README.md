@@ -1,17 +1,19 @@
 <div align="left">
       <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=2483f8&style=flat" target="blank" alt="vermaharsha"/>
 </div> <br>
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br> <br>
 
-<img align="right" src="https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc3OTUxNzYsIm5iZiI6MTcyNzc5NDg3NiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAxVDE1MDExNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1NTVmYjExYjhiMmY2MzQyMGI5Nzg5NDhmOWQ4NzIwNWMyZDQ0NGZkMmZjNjI5NDBjNDc0YTk5ZWY5MGQyMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vrJhBDnIzVublXmpqpQLWrWMRrtQnX47aq2lr4-6lho" height="220">
+<img align="right" src="https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc3OTUxNzYsIm5iZiI6MTcyNzc5NDg3NiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAxVDE1MDExNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1NTVmYjExYjhiMmY2MzQyMGI5Nzg5NDhmOWQ4NzIwNWMyZDQ0NGZkMmZjNjI5NDBjNDc0YTk5ZWY5MGQyMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vrJhBDnIzVublXmpqpQLWrWMRrtQnX47aq2lr4-6lho" height="180">
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F7F7&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+Harsha+Verma" alt="Typing SVG" /></a>
 
-<p> As a web developer, I thrive on overcoming intricate challenges. I’m passionate about reading, nurturing plants 🌱, discovering hidden gems, and leveraging technology for practical solutions. Currently enhancing my MERN skills and actively participating in hackathons. Excited to collaborate on transformative projects! 💡 </p>
-
+<p>As a web developer, I enjoy overcoming challenges and leveraging technology for practical solutions. <br> I’m eager to collaborate on impactful projects! 💡</p>
 <br>
+
+
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -38,10 +40,8 @@
 <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="60" >
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="60" >
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="60" >
-
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="50" >
 <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" height="60" >
-
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" height="60" >
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" height="60" >
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928" height="60" >
@@ -53,40 +53,24 @@
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="70" >
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" height="60" >
 <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" height="60" >
-
-<br>
-
-
-<!--
-<h3 align="left">About Me:</h3>
-
-```javascript
-
-let vermaharsha = {
-  name: "Harsha Verma",
-  contact: ["vermaharsha939@gmail.com", "LinkedIn: vermaharsha"],
-  social: "Instagram: vermaharsha__",
-  pronouns: "She/Her",
-  expertise: ["Web Development", "UI/UX Designing", "DSA"],
-  
-  introduceYourself() {
-    return `Hello! I'm ${this.name} (${this.pronouns}).🌱 
-    Connect with me on ${this.social} or through ${this.contact.join(" | ")}.
-    I'm passionate about ${this.expertise.join(", ")}. Feel free to reach out!`;
-  }
-};
-
-console.log(vermaharsha.introduceYourself());
-
-```
-
-<hr>
--->
-
-
-<br>
+<br> <br> 
       
 </div>
+
+## About Me:
+🌟 Hi! I’m Harsha Verma 🌟
+
+I’m passionate about using technology to create impactful solutions through web development and user-friendly designs. Currently, I'm honing my skills in **MERN** development.
+
+When I’m not coding, I enjoy getting lost in a good book or exploring new places.
+
+💌 Let’s connect!  
+- **Email:** [vermaharsha939@gmail.com](mailto:vermaharsha939@gmail.com)  
+- **LinkedIn:** [vermaharsha](https://www.linkedin.com/in/vermaharsha)  
+- **Instagram:** [vermaharsha__](https://www.instagram.com/vermaharsha__)
+
+I look forward to collaborating on exciting projects!
+<br> <br> 
 
 <!-- Github Stats Section -->
 <h2 align="left">Github Stats ⚡</h2>
