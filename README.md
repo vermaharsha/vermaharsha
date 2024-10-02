@@ -14,7 +14,7 @@
 <br>
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🛠️ Languages and Tools 🛠️</h2>
 
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="60" >
@@ -52,28 +52,29 @@
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" height="60" >
 <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" height="60" >
 <br> <br> 
-      
-</div>
 
-## About Me:
-🌟 Hi! I’m Harsha Verma 🌟
+<h2 align="left">✨ About Me ✨</h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300">
 
-I’m passionate about using technology to create impactful solutions through web development and user-friendly designs. Currently, I'm honing my skills in **MERN** development.
+**Hi, I’m Harsha Verma!** A web wizard 🧙‍♂️ focused on **MERN** stack solutions. <br> I’m passionate about building efficient, user-friendly applications.
 
-When I’m not coding, I enjoy getting lost in a good book or exploring new places.
+💌 **Let’s connect!**  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/harshaverma___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermaharsha)
 
-💌 Let’s connect!  
-- **Email:** [vermaharsha939@gmail.com](mailto:vermaharsha939@gmail.com)  
-- **LinkedIn:** [vermaharsha](https://www.linkedin.com/in/vermaharsha)  
-- **Instagram:** [harshaverma___](https://www.instagram.com/harshaverma___)
+### What Drives Me?
+- **🚀 Tech Enthusiast**: I love creating user-friendly designs that enhance experiences.
+- **📚 Bookworm**: Always eager to dive into new stories and tech insights.
+- **🌍 Adventurer**: Passionate about exploring new places and cultures.
 
-I look forward to collaborating on exciting projects!
+
+### 🚀 Let's code something great! 🎉
+
+
 <br> <br> 
 
 <!-- Github Stats Section -->
-<h2 align="left">Github Stats ⚡</h2>
+<h2 align="left">⚡ Github Stats ⚡</h2>
 <p align=left>
   <div align=left>
       <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaharsha&theme=react&border=61dafb&hide_border=true" target="blank" alt="vermaharsha" />
