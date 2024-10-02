@@ -60,6 +60,9 @@
 ## About Me:
 🌟 Hi! I’m Harsha Verma 🌟
 
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300">
+
 I’m passionate about using technology to create impactful solutions through web development and user-friendly designs. Currently, I'm honing my skills in **MERN** development.
 
 When I’m not coding, I enjoy getting lost in a good book or exploring new places.
