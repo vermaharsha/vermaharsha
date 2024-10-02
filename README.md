@@ -14,8 +14,6 @@
 <br>
 
 
-
-
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> 
@@ -59,7 +57,6 @@
 
 ## About Me:
 🌟 Hi! I’m Harsha Verma 🌟
-
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300">
 
