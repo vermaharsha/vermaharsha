@@ -71,7 +71,6 @@
 - **🌍 Adventurer**: Passionate about exploring new places and cultures.
 
 
-### 🚀 Let's code something great! 🎉
 
 <br>
 
