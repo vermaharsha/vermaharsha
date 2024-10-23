@@ -63,7 +63,7 @@
 **Hi, I’m Harsha Verma!** A web wizard 🧙‍♂️ focused on **MERN** stack solutions. <br> I’m passionate about building efficient, user-friendly applications.
 
 💌 **Let’s connect!**  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/harshaverma___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermaharsha)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vermaharsha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermaharsha)
 
 ### What Drives Me?
 - **🚀 Tech Enthusiast**: I love creating user-friendly designs that enhance experiences.
