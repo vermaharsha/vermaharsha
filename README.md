@@ -56,26 +56,22 @@
 <h2 align="left">✨ About Me ✨</h2>
 <img align="right" src="https://github.com/user-attachments/assets/6b5be187-748e-4e1b-bfaa-68a78c8e4cc0" height="300">
 
-<!--
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300">
--->
-
 **Hi, I’m Harsha Verma!** A web wizard 🧙‍♂️ focused on **MERN** stack solutions. <br> I’m passionate about building efficient, user-friendly applications.
 
 💌 **Let’s connect!**  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vermaharsha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermaharsha)
+<br> 
 
 ### What Drives Me?
 - **🚀 Tech Enthusiast**: I love creating user-friendly designs that enhance experiences.
 - **📚 Bookworm**: Always eager to dive into new stories and tech insights.
 - **🌍 Adventurer**: Passionate about exploring new places and cultures.
 
+<br> <br> 
 
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=onedark)
-
-
 
 <br>
 
