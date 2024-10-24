@@ -70,6 +70,7 @@
 - **📚 Bookworm**: Always eager to dive into new stories and tech insights.
 - **🌍 Adventurer**: Passionate about exploring new places and cultures.
 
+![GitHub Snake dark](https://github.com/vermaharsha/vermaharsha/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 <br>
