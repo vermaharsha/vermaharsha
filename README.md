@@ -3,7 +3,7 @@
 </div> <br>
 
 <img src="https://github.com/user-attachments/assets/d8e5a99e-f79a-445c-8290-a0475755ac25" />
-<br> <br>
+<br> 
 
 <img align="right" src="https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc3OTUxNzYsIm5iZiI6MTcyNzc5NDg3NiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAxVDE1MDExNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1NTVmYjExYjhiMmY2MzQyMGI5Nzg5NDhmOWQ4NzIwNWMyZDQ0NGZkMmZjNjI5NDBjNDc0YTk5ZWY5MGQyMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vrJhBDnIzVublXmpqpQLWrWMRrtQnX47aq2lr4-6lho" height="180">
 
@@ -51,7 +51,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="70" >
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" height="60" >
 <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" height="60" >
-<br> <br> 
+<br> <br>
 
 <h2 align="left">✨ About Me ✨</h2>
 <img align="right" src="https://github.com/user-attachments/assets/6b5be187-748e-4e1b-bfaa-68a78c8e4cc0" height="300">
@@ -67,8 +67,7 @@
 - **📚 Bookworm**: Always eager to dive into new stories and tech insights.
 - **🌍 Adventurer**: Passionate about exploring new places and cultures.
 
-<br> <br> 
-
+<br> 
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=onedark)
@@ -84,5 +83,7 @@
       
   </div>
 </p>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermaharsha&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <br>
