@@ -72,6 +72,11 @@
 
 
 
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=onedark)
+
+
+
 <br>
 
 <!-- Github Stats Section -->
