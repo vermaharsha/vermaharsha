@@ -78,12 +78,12 @@
 <h2 align="left">⚡ Github Stats ⚡</h2>
 <p align=left>
   <div align=left>
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaharsha&theme=react&border=61dafb&hide_border=true" target="blank" alt="vermaharsha" />
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=vermaharsha&show_icons=true&theme=react&border_color=61dafb&hide_border=true" target="blank"/>
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaharsha&theme=react&border=0d2199&hide_border=true" target="blank" alt="vermaharsha" />
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=vermaharsha&show_icons=true&theme=react&border_color=0d2199&hide_border=true" target="blank"/>
       
   </div>
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermaharsha&bg_color=161b22&color=ffffff&line=d5d5d5&point=4493f8&area=true&hide_border=true&hide_title=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermaharsha&bg_color=161b22&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true&hide_title=true" />
 
 <br>
