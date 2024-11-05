@@ -14,6 +14,26 @@
 <br>
 
 
+<h2 align="left">🌟About Me🌟</h2>
+
+```
+const Coder 💻 = {
+    name: 'Harsha Verma',
+    skills 🌱: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Node.js', 'Express.js', 'Git', 'GitHub', 'Python', 'SQL'],
+    hardWorker: true,
+    quickLearner: true,
+    problemSolver: true,
+    hireable: function() {
+        return (
+            this.hardWorker &&
+            this.problemSolver &&
+            this.skills.length >= 5
+        );
+    }
+};
+```
+
+
 <h2 align="left">🛠️ Languages and Tools 🛠️</h2>
 
 <p align="left"> 
