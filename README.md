@@ -14,7 +14,7 @@
 <br>
 
 
-<h2 align="left">🌟About Me🌟</h2>
+<h2 align="left">Skills & Strengths 🚀</h2>
 
 ```
 const Coder 💻 = {
@@ -34,7 +34,7 @@ const Coder 💻 = {
 ```
 
 
-<h2 align="left">🛠️ Languages and Tools 🛠️</h2>
+<h2 align="left">Languages and Tools 🛠️</h2>
 
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="60" >
@@ -73,12 +73,12 @@ const Coder 💻 = {
 <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" height="60" >
 <br> <br>
 
-<h2 align="left">✨ About Me ✨</h2>
+<h2 align="left">About Me ✨</h2>
 <img align="right" src="https://github.com/user-attachments/assets/6b5be187-748e-4e1b-bfaa-68a78c8e4cc0" height="300">
 
 **Hi, I’m Harsha Verma!** A web wizard 🧙‍♂️ focused on **MERN** stack solutions. <br> I’m passionate about building efficient, user-friendly applications.
 
-💌 **Let’s connect!**  
+**Let’s connect! 💌**  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vermaharsha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermaharsha)
 <br> 
 
@@ -89,13 +89,13 @@ const Coder 💻 = {
 
 <br> 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies 🏆
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=onedark)
 
 <br>
 
 <!-- Github Stats Section -->
-<h2 align="left">⚡ Github Stats ⚡</h2>
+<h2 align="left">Github Stats ⚡</h2>
 <p align=left>
   <div align=left>
       <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaharsha&theme=react&border=0d2199&hide_border=true" target="blank" alt="vermaharsha" />
