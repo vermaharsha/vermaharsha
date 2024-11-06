@@ -94,10 +94,6 @@ console.log(`Is ${Coder 💻.name} hireable?`, Coder 💻.hireable());
 
 <br> 
 
-## GitHub Trophies 🏆
-![Trophies](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=onedark)
-
-<br>
 
 <!-- Github Stats Section -->
 <h2 align="left">Github Stats ⚡</h2>
@@ -112,3 +108,4 @@ console.log(`Is ${Coder 💻.name} hireable?`, Coder 💻.hireable());
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermaharsha&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true&hide_title=true" />
 
 <br>
+
