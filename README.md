@@ -87,12 +87,6 @@ console.log(`Is ${Coder 💻.name} hireable?`, Coder 💻.hireable());
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vermaharsha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermaharsha)
 <br> 
 
-### What Drives Me?
-- **🚀 Tech Enthusiast**: I love creating user-friendly designs that enhance experiences.
-- **📚 Bookworm**: Always eager to dive into new stories and tech insights.
-- **🌍 Adventurer**: Passionate about exploring new places and cultures.
-
-<br> 
 
 ## GitHub Trophies 🏆
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=onedark)
