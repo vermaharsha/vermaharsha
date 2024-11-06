@@ -95,6 +95,12 @@ console.log(`Is ${Coder 💻.name} hireable?`, Coder 💻.hireable());
 <br> 
 
 
+## GitHub Trophies 🏆
+![Trophies](https://github-profile-trophy.vercel.app/?username=vermaharsha&theme=onedark)
+
+<br>
+
+
 <!-- Github Stats Section -->
 <h2 align="left">Github Stats ⚡</h2>
 <p align=left>
