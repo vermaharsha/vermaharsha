@@ -114,7 +114,7 @@ console.log(`Is ${Coder 💻.name} hireable?`, Coder 💻.hireable());
 
 
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermaharsha&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true&hide_title=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermaharsha&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=false&hide_title=true" />
 
 <br>
 
