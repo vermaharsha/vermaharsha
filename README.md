@@ -106,7 +106,7 @@ console.log(`Is ${Coder 💻.name} hireable?`, Coder 💻.hireable());
 <h2 align="left">Github Stats ⚡</h2>
 <p align=center >
   <div align=center>
-<img align="center" width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rajnishsharma&theme=react&layout=compact"/>
+<img align="center" width="50%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rajnishsharma&theme=react&layout=compact"/>
 <!-- <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaharsha&theme=react&border=0d2199&hide_border=true" target="blank" 
 alt="vermaharsha" /> -->
 <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=vermaharsha&show_icons=true&theme=react" target="blank"/>
