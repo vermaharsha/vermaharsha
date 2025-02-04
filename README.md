@@ -22,7 +22,7 @@
 ```Javascript 
 const Coder 💻 = {
     name: 'Harsha Verma',
-    skills 🌱: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Node.js', 'Express.js', 'Git', 'GitHub', 'Python', 'SQL'],
+    skills 🌱: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'Express.js', 'EJS', 'Git', 'GitHub', 'Python', 'SQL'],
     hardWorker: true,
     quickLearner: true,
     problemSolver: true,
