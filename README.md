@@ -38,6 +38,7 @@ const Coder 💻 = {
 console.log(`Is ${Coder 💻.name} hireable?`, Coder 💻.hireable());
 
 ```
+<br> <br>
 
 
 <h2 align="left">Languages and Tools 🛠️</h2>
