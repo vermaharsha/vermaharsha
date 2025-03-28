@@ -78,8 +78,7 @@ console.log(`Is ${Coder 💻.name} hireable?`, Coder 💻.hireable());
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="70" >
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" height="60" >
 <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" height="60" >
-<br> 
-
+<br> <br>
 
 <h2 align="left">About Me ✨</h2>
 <img align="right" src="https://github.com/user-attachments/assets/6b5be187-748e-4e1b-bfaa-68a78c8e4cc0" height="300">
@@ -108,76 +107,6 @@ console.log(`Is ${Coder 💻.name} hireable?`, Coder 💻.hireable());
 <h2 align="left">Github Stats ⚡</h2>
 <p align=center >
   <div align=center>
-Indent mode
-
-Spaces
-Indent size
-
-2
-Line wrap mode
-
-Soft wrap
-Editing README.md file contents
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-101
-102
-103
-104
-105
-106
-107
-108
-109
-110
-111
-112
-113
-114
-115
-116
-117
-118
-119
-120
-121
-122
-123
-124
-125
 
 <img align="center" width="35%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rajnishsharma&theme=react&layout=compact"/>
 <!-- <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaharsha&theme=react&border=0d2199&hide_border=true" target="blank" 
