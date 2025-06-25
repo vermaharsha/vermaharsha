@@ -19,23 +19,25 @@
 
 <h2 align="left">Skills & Strengths 🚀</h2>
 
-```Javascript 
-const Coder 💻 = {
+```Javascript const coder = {
     name: 'Harsha Verma',
-    skills 🌱: ['React.js', 'Vite.js', 'JavaScript', 'Node.js', 'Express.js', 'EJS', 'Git', 'GitHub', 'MongoDB', 'SQL'],
+    skills: {
+        frontend: ['React.js', 'Vite.js', 'JavaScript', 'EJS'],
+        backend: ['Node.js', 'Express.js'],
+        database: ['MongoDB', 'SQL'],
+        tools: ['Git', 'GitHub']
+    },
     hardWorker: true,
     quickLearner: true,
     problemSolver: true,
-    hireable: function() {
-        return (
-            this.hardWorker &&
-            this.problemSolver &&
-            this.skills.length >= 5
-        );
+    hireable: function () {
+        const totalSkills = Object.values(this.skills).flat().length;
+        return this.hardWorker && this.problemSolver && totalSkills >= 5;
     }
 };
 
-console.log(`Is ${Coder 💻.name} hireable?`, Coder 💻.hireable());
+console.log(`🚀 Is ${coder.name} hireable?`, coder.hireable());
+
 
 ```
 <br>
