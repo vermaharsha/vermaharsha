@@ -19,7 +19,9 @@
 
 <h2 align="left">Skills & Strengths 🚀</h2>
 
-```Javascript const coder = {
+
+```Javascript
+const coder = {
     name: 'Harsha Verma',
     skills: {
         frontend: ['React.js', 'Vite.js', 'JavaScript', 'EJS'],
