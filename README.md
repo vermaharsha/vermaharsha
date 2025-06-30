@@ -53,6 +53,8 @@ console.log(`🚀 Is ${coder.name} hireable?`, coder.hireable());
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="60" >
 <!-- JavaScript -->
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="60" >
+<!-- Java -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" height="60" >
 <!-- Python -->
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="60" >
 <!-- Node.js -->
@@ -63,6 +65,8 @@ console.log(`🚀 Is ${coder.name} hireable?`, coder.hireable());
 <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height="60" >
 <!-- Canva -->
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" height="60" >
+<!-- websocket -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" height="60" >
 <!-- C -->
 <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="60" >
 <!-- HTTP -->
@@ -81,6 +85,8 @@ console.log(`🚀 Is ${coder.name} hireable?`, coder.hireable());
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="50" >
 <!-- npm -->
 <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" height="60" >
+<!-- REST -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" height="50" >
 <!-- CSS -->
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" height="60" >
 <!-- GitHub -->
