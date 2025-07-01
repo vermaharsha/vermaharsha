@@ -44,7 +44,7 @@ console.log(`🚀 Is ${coder.name} hireable?`, coder.hireable());
 
 <p align="left"> 
 <!-- Bootstrap -->
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" height="60" >
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" height="60" title="Bootstrap" >
 <!-- Tailwind CSS -->
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="60" >
 <!-- JavaScript -->
