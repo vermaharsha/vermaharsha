@@ -92,7 +92,7 @@ console.log(`🚀 Is ${coder.name} hireable?`, coder.hireable());
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" height="60" title="Postman">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="50" title="Visual Studio Code">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spyder.png" height="60" title="Spyder">
-  <img src="https://github.com/user-attachments/assets/ce2959ad-a59d-42aa-9c40-dcb4b239cd3e" height="60" title="Chrome Extension"/>
+  <!-- <img src="https://github.com/user-attachments/assets/ce2959ad-a59d-42aa-9c40-dcb4b239cd3e" height="60" title="Chrome Extension"/> -->
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" height="60" title="Windows">
 
 
