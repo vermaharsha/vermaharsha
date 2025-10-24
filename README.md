@@ -76,6 +76,7 @@ console.log(`🚀 Is ${coder.name} hireable?`, coder.hireable());
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="60" title="MongoDB">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" height="60" title="Windows">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" height="60" title="Figma">
+  <img src="https://github.com/user-attachments/assets/6a1ba704-baae-46a1-9406-acd6df0e4d71" height="50" title="Google Analytics" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="60" title="React">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" height="60" title="Next.js">
   <br><br>
