@@ -165,5 +165,5 @@ alt="vermaharsha" /> -->
 💌 Always open to interesting projects, discussions, or opportunities.  
 📫 Reach me at: [vermaharsha939@gmail.com](mailto:vermaharsha939@gmail.com)  
 🌐 Portfolio: [hrsv.vercel.app](https://hrsv.vercel.app)  
-🔗 LinkedIn: [linkedin.com/in/verma-harsha]([https://www.linkedin.com/in/verma-harsha/])
+🔗 LinkedIn: [linkedin.com/in/verma-harsha](https://www.linkedin.com/in/verma-harsha/)
 
