@@ -1,29 +1,45 @@
-<img src="https://github.com/user-attachments/assets/d8e5a99e-f79a-445c-8290-a0475755ac25" />
-<br> 
+<img src="https://github.com/user-attachments/assets/d8e5a99e-f79a-445c-8290-a0475755ac25" width="100%"/>
 
-### Hi there 👋 I'm Harsha Verma  
+<br>
+
+# 👋 Hi there, I'm Harsha Verma  
 💻 Full-Stack Developer | 🌐 MERN Enthusiast | 🚀 Problem Solver  
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=2483f8&style=flat" target="blank" alt="vermaharsha"/>
-</div> 
+  <img src="https://komarev.com/ghpvc/?username=vermaharsha&label=Profile%20views&color=2483f8&style=flat" alt="vermaharsha"/>
+</div>
 
-I believe technology should simplify life — that’s why I focus on building clean, meaningful, and user-centered experiences.
+I believe technology should simplify life — that’s why I focus on building **clean, meaningful, and user-centered experiences.**
 
 
-### 💡 My Approach
+## 💡 My Approach
 - I build with clarity, creativity, and performance in mind.  
 - I value user experience and maintainability equally.  
 - I enjoy learning and documenting everything I discover.  
+- I love turning problems into intuitive digital solutions.  
 
-<p>As a web developer, I enjoy overcoming challenges and leveraging technology for practical solutions. <br> I’m eager to collaborate on impactful projects! 💡</p>
-<br>
+---
 
+## 🧠 About Me
+<img align="right" src="https://github.com/user-attachments/assets/6b5be187-748e-4e1b-bfaa-68a78c8e4cc0" height="250">
 
-<h2 align="left">Skills & Strengths 🚀</h2>
+**Hi, I’m Harsha Verma!**  
+A web wizard 🧙‍♀️ passionate about the **MERN stack** and crafting user-friendly, efficient applications.  
 
+### What Drives Me:
+- 🚀 **Tech Enthusiast:** I love building interactive, scalable web apps.  
+- 📚 **Bookworm:** Constantly learning — from code to creativity.  
+- 🌍 **Adventurer:** Exploring new places, people, and ideas.
 
-```Javascript
+**Let’s connect! 💌**  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vermaharsha_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verma-harsha/)
+
+---
+
+## 🧩 Skills & Strengths
+
+```javascript
 const coder = {
     name: 'Harsha Verma',
     skills: {
@@ -35,14 +51,13 @@ const coder = {
     hardWorker: true,
     quickLearner: true,
     problemSolver: true,
-    hireable: function () {
+    hireable() {
         const totalSkills = Object.values(this.skills).flat().length;
         return this.hardWorker && this.problemSolver && totalSkills >= 5;
     }
 };
 
 console.log(`🚀 Is ${coder.name} hireable?`, coder.hireable());
-
 
 ```
 <br>
@@ -118,24 +133,6 @@ console.log(`🚀 Is ${coder.name} hireable?`, coder.hireable());
   <img src="https://github.com/user-attachments/assets/6a1ba704-baae-46a1-9406-acd6df0e4d71" height="50" title="Google Analytics">
 
 </p>
-
-
-
-<h2 align="left">About Me ✨</h2>
-<img align="right" src="https://github.com/user-attachments/assets/6b5be187-748e-4e1b-bfaa-68a78c8e4cc0" height="300">
-
-**Hi, I’m Harsha Verma!** A web wizard 🧙‍♂️ focused on **MERN** stack solutions. <br> I’m passionate about building efficient, user-friendly applications.
-
-**Let’s connect! 💌**  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vermaharsha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermaharsha)
-<br> 
-
-### What Drives Me?
-- **🚀 Tech Enthusiast**: I love creating user-friendly designs that enhance experiences.
-- **📚 Bookworm**: Always eager to dive into new stories and tech insights.
-- **🌍 Adventurer**: Passionate about exploring new places and cultures.
-
-<br> 
 
 
 ## GitHub Trophies 🏆
