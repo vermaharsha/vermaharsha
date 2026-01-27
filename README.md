@@ -59,16 +59,16 @@ When a project needs it, I collaborate with trusted designers or developers — 
 
 ## 🧠 Tools I Work With
 
-```js
-const workStyle = {
-  frontend: ['React', 'Vite', 'JavaScript', 'HTML', 'CSS', 'Tailwind'],
-  backend: ['Node.js', 'Express'],
-  database: ['MongoDB', 'SQL'],
-  focus: ['UX', 'performance', 'SEO', 'maintainability'],
-  philosophy: 'Right tool for the right problem'
+```jsconst workStyle = {
+  websites: ['React / Vite', 'WordPress', 'Responsive UI'],
+  seo: ['Technical SEO', 'On-page SEO', 'SEO-friendly structure'],
+  performance: ['Page speed', 'Core Web Vitals'],
+  backend: ['Node.js', 'Express', 'REST APIs'],
+  mindset: 'Right tool for the right problem'
 };
 
 console.log('Building solutions, not just stacks.');
+
 ```
 
 
