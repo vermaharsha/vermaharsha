@@ -71,6 +71,25 @@ console.log('Building solutions, not just stacks.');
 
 ```
 
+## 🛠️ Tools I Use for Client Work
+These are the tools I rely on most when building and improving client websites.
+
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="50" title="React">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" height="50" title="WordPress">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="50" title="Node.js">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" height="50" title="Express">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="50" title="MongoDB">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="50" title="MySQL">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="50" title="Tailwind CSS">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height="50" title="HTML">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height="50" title="CSS">
+  <img src="https://github.com/user-attachments/assets/ae8bd276-a9b5-4b61-917a-c06ecc46a4c3" height="50" title="SEO">
+  <img src="https://github.com/user-attachments/assets/6a1ba704-baae-46a1-9406-acd6df0e4d71" height="45" title="Google Analytics">
+</p>
+
+
 
 ## 🧪 Inside This GitHub
 
