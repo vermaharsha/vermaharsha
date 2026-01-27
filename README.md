@@ -86,7 +86,7 @@ These are the tools I rely on most when building and improving client websites.
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height="50" title="HTML">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height="50" title="CSS">
   <img src="https://github.com/user-attachments/assets/ae8bd276-a9b5-4b61-917a-c06ecc46a4c3" height="50" title="SEO">
-  <img src="https://github.com/user-attachments/assets/6a1ba704-baae-46a1-9406-acd6df0e4d71" height="55" title="Google Analytics">
+  <img src="https://github.com/user-attachments/assets/6a1ba704-baae-46a1-9406-acd6df0e4d71" height="50" title="Google Analytics">
 </p>
 
 
