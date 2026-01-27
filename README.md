@@ -44,7 +44,18 @@ When a project needs it, I collaborate with trusted designers or developers — 
 
 | | |
 |---|---|
-| Hey! I’m Harsha 👋<br><br>I design and develop websites that are **easy to use, easy to manage, and built to grow**.<br><br>• individuals launching something new<br>• small businesses improving their online presence<br>• teams that value clarity, trust, and collaboration<br><br>When a project needs it, I collaborate with trusted designers or developers — while keeping communication and ownership clear. | <img src="https://github.com/user-attachments/assets/6b5be187-748e-4e1b-bfaa-68a78c8e4cc0" height="180"> |
+| Hey! I’m Harsha 👋<br><br>
+I design and develop websites that are  
+**easy to use**, **easy to manage**, and **built to grow**.<br><br>
+
+**I enjoy working with:**<br>
+- individuals launching something new<br>
+- small businesses improving their online presence<br>
+- teams that value clarity and trust<br><br>
+
+When a project needs it, I collaborate with trusted designers or developers —  
+while keeping communication and ownership clear.
+| <img src="https://github.com/user-attachments/assets/6b5be187-748e-4e1b-bfaa-68a78c8e4cc0" height="180"> |
 
 
 ---
