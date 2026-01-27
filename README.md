@@ -69,3 +69,30 @@ const workStyle = {
 };
 
 console.log('Building solutions, not just stacks.');
+```
+
+
+## 🧪 Inside This GitHub
+
+This space is my personal development playground.
+
+You’ll find:
+- experiments and prototypes  
+- utilities and side ideas  
+- learning-focused projects  
+- explorations around performance, UX, and tooling  
+
+Client projects and production websites are kept private out of respect for confidentiality.
+
+## 🤝 Let’s Work Together
+
+If you’re looking for:
+- a new website  
+- a thoughtful redesign  
+- help with performance or SEO  
+
+📫 Email: [vermaharsha939@gmail.com](mailto:vermaharsha939@gmail.com)  
+🌐 Portfolio: https://www.hrsha.site  
+🔗 LinkedIn: https://www.linkedin.com/in/verma-harsha/
+
+
