@@ -59,7 +59,8 @@ When a project needs it, I collaborate with trusted designers or developers — 
 
 ## 🧠 Tools I Work With
 
-```jsconst workStyle = {
+``` js
+const workStyle = {
   websites: ['React / Vite', 'WordPress', 'Responsive UI'],
   seo: ['Technical SEO', 'On-page SEO', 'SEO-friendly structure'],
   performance: ['Page speed', 'Core Web Vitals'],
@@ -68,12 +69,11 @@ When a project needs it, I collaborate with trusted designers or developers — 
 };
 
 console.log('Building solutions, not just stacks.');
-
 ```
 
 ## 🛠️ Tools I Use for Client Work
-These are the tools I rely on most when building and improving client websites.
 
+These are the tools I rely on most when building and improving client websites.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="50" title="React">
@@ -86,9 +86,8 @@ These are the tools I rely on most when building and improving client websites.
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height="50" title="HTML">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height="50" title="CSS">
   <img src="https://github.com/user-attachments/assets/ae8bd276-a9b5-4b61-917a-c06ecc46a4c3" height="50" title="SEO">
-  <img src="https://github.com/user-attachments/assets/6a1ba704-baae-46a1-9406-acd6df0e4d71" height="45" title="Google Analytics">
+  <img src="https://github.com/user-attachments/assets/6a1ba704-baae-46a1-9406-acd6df0e4d71" height="55" title="Google Analytics">
 </p>
-
 
 
 ## 🧪 Inside This GitHub
@@ -113,5 +112,3 @@ If you’re looking for:
 📫 Email: [vermaharsha939@gmail.com](mailto:vermaharsha939@gmail.com)  
 🌐 Portfolio: https://www.hrsha.site  
 🔗 LinkedIn: https://www.linkedin.com/in/verma-harsha/
-
-
