@@ -114,3 +114,6 @@ If you’re looking for:
 📫 Email: [vermaharsha939@gmail.com](mailto:vermaharsha939@gmail.com)  
 🌐 Portfolio: https://www.hrsha.site  
 🔗 LinkedIn: https://www.linkedin.com/in/verma-harsha/
+
+<br><br>
+![Harsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vermaharsha&theme=react-dark)
