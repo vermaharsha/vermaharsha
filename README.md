@@ -119,7 +119,7 @@ That can mean improving their digital presence, automating repetitive workflows,
 
   [Live Project](https://u-c.vercel.app/)
   
-- **DuAlert — Chrome Extension** : A Chrome extension that helps prevent duplicate downloads and saves storage by detecting whether a downloaded file already exists on the system.
+- **DuAlert - Chrome Extension** : A Chrome extension that helps prevent duplicate downloads and saves storage by detecting whether a downloaded file already exists on the system.
 
   - Uses SHA-256 hashing to identify files based on their actual content
   - Can detect duplicates even when filenames are different
@@ -130,7 +130,7 @@ That can mean improving their digital presence, automating repetitive workflows,
   - Built with JavaScript, HTML, CSS and browser APIs
   - Developed during Code Kshetra 2.0 hackathon
 
-[View Project on Devfolio](https://devfolio.co/projects/dualert-f28d)
+  [View Project on Devfolio](https://devfolio.co/projects/dualert-f28d)
 
 ---
 
@@ -173,7 +173,7 @@ Business development
 
 ## 🤝 Let’s Work Together
 
-If you’re looking for someone who can understand the problem first and then figure out the right technical solution...
+If you’re looking for someone who can understand the problem first and then figure out the right technical solution.
 
 📫 Email: vermaharsha939@gmail.com
 
@@ -182,7 +182,8 @@ If you’re looking for someone who can understand the problem first and then fi
 🔗 LinkedIn: https://www.linkedin.com/in/verma-harsha/
 <br><br>
 
-
-![Harsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vermaharsha&theme=react-dark)
+<!--
+![Harsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vermaharsha&theme=react-dark) 
+--> 
 
 ---
